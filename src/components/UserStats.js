@@ -1,7 +1,7 @@
 import React from 'react';
 
 function UserStats(){
-  return(
+  return (
     <h3>Kellie A. Corrigan</h3>
     <p>Tweets</p>
     <p>Following</p>
