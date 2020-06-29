@@ -3,7 +3,7 @@ import Header from './Header';
 import UserStats from './UserStats';
 import UserBio from './UserBio';
 import PostScroll from './PostScroll';
-import AddFriendList from './AddFriendList';
+import FriendList from './FriendList';
 
 function App(){
   return (
@@ -12,7 +12,7 @@ function App(){
       <UserStats />
       <UserBio />
       <PostScroll />
-      <AddFriendList />
+      <FriendList />
     </React.Fragment>
   )
 }

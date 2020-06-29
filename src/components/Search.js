@@ -2,10 +2,11 @@ import React from "react";
 
 function Search(){
   return (
-    <form>
-      <input type="text" name="search" placeholder="search" />
-      <input type="submit" value="submit" />
-    </form>
+    <div class="search-container">
+      <form>
+        <input type="text" name="search" id ="search" placeholder="search" />
+      </form>
+    </div>
   );
 }
 

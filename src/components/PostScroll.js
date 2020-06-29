@@ -24,6 +24,7 @@ function PostScroll(){
   return (
     <React.Fragment>
       <PostStatus />
+      <hr/>
      {postList.map((post, index) =>
         <Post userName={post.userName}
           status={post.status}
@@ -34,4 +35,4 @@ function PostScroll(){
   )
 }
 
-export default PostStatus;
+export default PostScroll;

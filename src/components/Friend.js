@@ -6,6 +6,7 @@ function Friend(props){
     <React.Fragment>
       <h3>{props.name}</h3>
       <img src={props.image}/>
+      <button>Add Friend</button>
       <hr/>
     </React.Fragment>
   );
