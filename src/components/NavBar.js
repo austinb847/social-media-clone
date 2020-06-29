@@ -2,11 +2,11 @@ import React from "react";
 
 function NavBar() {
   return (
-<React.Fragment>
+  <React.Fragment>
     <a href="#">Home</a>
     <a href="#">Notifications</a>
     <a href="#">Messages</a>
-  <React.Fragment/>
+  </React.Fragment>
   );
 }
 

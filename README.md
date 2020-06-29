@@ -30,7 +30,8 @@ JSX
 REACT
 
 ### Specs
-![Page Diagram](https://photos.google.com/photo/AF1QipOHOUCXCRH5Q_TQwiERKb2ClN66DX6D_JmKrE8P)
+![Page Diagram](https://i.imgur.com/pOMisMr.png)
+
 License
 
 This software is licensed under the MIT license.
